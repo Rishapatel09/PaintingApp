@@ -10,8 +10,4 @@ A lightweight drawing/painting app with a simple, clean UI.
 - Save / export to image (e.g., PNG)
 - Import any saved images to trace / color it
 
-## Getting Started
-   ```bash
-   git clone
-   
-   cd PaintingApp
+
